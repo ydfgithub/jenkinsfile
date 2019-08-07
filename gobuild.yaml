@@ -13,10 +13,7 @@ metadata:
     category: Build
     source: official
     templateName: GoLangBuilder
-  name: GoLangBuilder.2.0.0
-  resourceVersion: "2661"
-  selfLink: /apis/devops.alauda.io/v1alpha1/clusterpipelinetemplates/GoLangBuilder.2.0.0
-  uid: 6093da43-b660-11e9-94cb-0a580ac700d8
+  name: ydfGoLangBuilder.2.0.0
 spec:
   agent:
     label: golang
